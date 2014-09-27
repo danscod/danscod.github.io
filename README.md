@@ -1,4 +1,4 @@
 danscod.github.io
 =================
 
-My First Website using Github Pages
+My Personal Resume
