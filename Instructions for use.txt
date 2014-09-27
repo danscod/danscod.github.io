@@ -1,0 +1,8 @@
+Open PowerShell
+
+Navigate to directory
+
+e.g. D:\Users\Danilo\Documents\GitHub\danscod.github.io
+
+Start local web server
+python -m http.server 8000
