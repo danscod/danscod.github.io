@@ -153,6 +153,7 @@ a:after {
 
 /* Header Wrap */
 #headerwrap {
+    /*HERE YOU CAN CHANGE THE HEADER IMAGE*/
 	background: url(../img/header-bg.jpg) no-repeat center top;
 	margin-top: 60px;
 	padding-top:140px;
